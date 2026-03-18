@@ -1,0 +1,38 @@
+{
+  "total_customers": 30000,
+  "eligible_customers": 25068,
+  "eligible_pct": 83.6,
+  "tier_counts": {
+    "Subprime": 11858,
+    "Near-Prime": 10622,
+    "Prime": 7520
+  },
+  "zero_increases": 13207,
+  "current_total_profit": 1341560,
+  "avg_loan_size": 2752.53,
+  "capital_constraint": 24772793.0,
+  "markov_default_12m": {
+    "Prime": 0.3314,
+    "Near-Prime": 0.4156,
+    "Subprime": 0.5974
+  },
+  "steady_state": {
+    "Prime": 0.0,
+    "Near-Prime": 0.0,
+    "Subprime": 0.0,
+    "Default": 1.0
+  },
+  "opt_customers_sample": 374,
+  "opt_customers_scaled": 2243,
+  "opt_npv_scaled": 84006.1,
+  "opt_default_rate": 0.0824,
+  "capital_utilized_pct": 4.62,
+  "scenario_npvs": {
+    "Baseline 2023": 84006.1,
+    "High Inflation +3%": 67918.93,
+    "Recession +5% Unemp": 49866.02,
+    "CBK Rate Cut -2%": 91999.28,
+    "Optimistic Growth": 99307.81
+  },
+  "scale_factor": 5.9988002399520095
+}
