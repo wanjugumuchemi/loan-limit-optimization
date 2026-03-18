@@ -58,7 +58,7 @@ loan-limit-optimization/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/raremuchie/loan-limit-optimization.git
+git clone https://github.com/wanjugumuchemi/loan-limit-optimization.git
 cd loan-limit-optimization
 
 # 2. Install dependencies
